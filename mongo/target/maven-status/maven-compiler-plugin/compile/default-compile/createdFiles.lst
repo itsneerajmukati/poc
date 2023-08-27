@@ -1,0 +1,12 @@
+com\mongo\pojo\Product.class
+com\mongo\pojo\ProductVariant.class
+com\mongo\rest\HelloServlet.class
+com\mongo\pojo\ProductAttribute.class
+com\mongo\pojo\Attribute.class
+com\mongo\pojo\ProductVariantAttribute.class
+com\mongo\rest\ProductRest.class
+com\mongo\pojo\User.class
+com\mongo\pojo\Category.class
+com\mongo\rest\CategoryRest.class
+com\mongo\Main.class
+com\mongo\dao\DBConnection.class

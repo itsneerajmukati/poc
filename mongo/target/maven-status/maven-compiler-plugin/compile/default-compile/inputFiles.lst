@@ -1,0 +1,12 @@
+D:\Projects\poc\mongo\src\main\java\com\mongo\rest\HelloServlet.java
+D:\Projects\poc\mongo\src\main\java\com\mongo\dao\DBConnection.java
+D:\Projects\poc\mongo\src\main\java\com\mongo\pojo\Category.java
+D:\Projects\poc\mongo\src\main\java\com\mongo\rest\CategoryRest.java
+D:\Projects\poc\mongo\src\main\java\com\mongo\pojo\Attribute.java
+D:\Projects\poc\mongo\src\main\java\com\mongo\Main.java
+D:\Projects\poc\mongo\src\main\java\com\mongo\pojo\ProductAttribute.java
+D:\Projects\poc\mongo\src\main\java\com\mongo\pojo\ProductVariant.java
+D:\Projects\poc\mongo\src\main\java\com\mongo\pojo\ProductVariantAttribute.java
+D:\Projects\poc\mongo\src\main\java\com\mongo\rest\ProductRest.java
+D:\Projects\poc\mongo\src\main\java\com\mongo\pojo\Product.java
+D:\Projects\poc\mongo\src\main\java\com\mongo\pojo\User.java
